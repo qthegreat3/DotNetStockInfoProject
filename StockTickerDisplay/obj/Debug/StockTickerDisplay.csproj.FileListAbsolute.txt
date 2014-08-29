@@ -1,0 +1,9 @@
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\bin\Debug\StockTickerDisplay.exe.config
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\bin\Debug\StockTickerDisplay.exe
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\bin\Debug\StockTickerDisplay.pdb
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\obj\Debug\StockTickerDisplay.csprojResolveAssemblyReference.cache
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\obj\Debug\StockTickerDisplay.Form1.resources
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\obj\Debug\StockTickerDisplay.Properties.Resources.resources
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\obj\Debug\StockTickerDisplay.csproj.GenerateResource.Cache
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\obj\Debug\StockTickerDisplay.exe
+c:\users\qevans\documents\visual studio 2013\Projects\StockTickerDisplay\StockTickerDisplay\obj\Debug\StockTickerDisplay.pdb
